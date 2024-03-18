@@ -1,0 +1,15 @@
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.csproj.AssemblyReference.cache
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\MainWindow.g.cs
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\App.g.cs
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS_MarkupCompile.cache
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS_MarkupCompile.lref
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\bin\Debug\Lab3DS.exe.config
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\bin\Debug\Lab3DS.exe
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\bin\Debug\Lab3DS.pdb
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\MainWindow.baml
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.g.resources
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.Properties.Resources.resources
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.csproj.GenerateResource.cache
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.exe
+C:\Users\Mi\source\repos\Lab3DS\Lab3DS\obj\Debug\Lab3DS.pdb
